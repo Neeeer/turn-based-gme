@@ -23,7 +23,6 @@ public class CameraLoc : MonoBehaviour
     }
     void Update()
     {
-        // h
         if (on)
         {
             float interpolationRatio = (float)elapsedFrames / interpolationFramesCount;
