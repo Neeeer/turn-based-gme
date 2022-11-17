@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4c5a8e8d6ecb4e845b333a993f3fda6c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - AssasinInfo: {fileID: 11400000, guid: 2c235e57bb39d9e478538b0c9d0b1196, type: 2}
+  - DruidInfo: {fileID: 11400000, guid: 1351efd030792d041a50d98a11ff3792, type: 2}
+  - FrogInfo: {fileID: 11400000, guid: 2f4eb0abdfacf9547a30c526fd01ec4e, type: 2}
+  - PaladinInfo: {fileID: 11400000, guid: 77fd703873b81794aa3cd2f7183bfc19, type: 2}
+  - Enemy1Info: {fileID: 11400000, guid: 9a50aff0a11d6c1469a59ff08199d3c3, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
